@@ -53,9 +53,13 @@ In summary, given the double loop learning versus single loop learning, or deep 
 
 
 References: 
+
 Argyris, C. (1991). Teaching Smart People How to Learn. Harvard Business Review, 69(3), 99–109.
+
 Biggs, J. (2012). What the student does: teaching for enhanced learning. Higher Education Research & Development, 31(1), 39–55. https://doi.org/10.1080/07294360.2012.642839
+
 Biggs, J., & Tang, C. (2011). Teaching for Quality Learning at University. McGraw-hill education.
+
 Malone, S. A. (2003). Learning about learning: an AZ of training and development tools and techniques. CIPD Publishing.
 
 
